@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <style>
+	    ul {
+  font-size: 130px;
+}
+	    h2 {
+  font-size: 25px; 
+}
+img {
+  width: 100%;
+}
+</style>
+		<meta charset="UTF-8">
+			<meta name="author" content="Elena Ilieva">
+				<title> My First HTML homework </title>
+			</head>
+			<body>
+				<h1> My First HTML page </h1>
+				<p style="color:DodgerBlue;"><strong> The London Eye </strong> is a cantilevered observation wheel on the South Bank of the River Thames in London. It is <strong> Europe`s </strong> tallest cantilevered observation wheel and is <b> the most popular </b> paid tourist attraction in the United Kingdom.</p>
+				<p> The <strong> Eiffel Tower </strong> is a wrought-iron lattice tower on the Champ de Mars in <strong> Paris, France </strong> .It is named after the engineer <b> Gustave Eiffel </b>, whose company designed and built the tower. </p>
+				<ul style="color:MediumSeaGreen"> 
+				    <li> integration testing </li>
+				    <li> system testing </li>
+				    <li> acceptance testing </li>
+				    <li> load testing </li>
+				</ul>
+				<ol>
+				    <li> bread </li>
+				    <li> milk </li>
+				    <li> cheese </li>
+				    <li> beer </li>
+				    <li> tomatoes </li>
+				</ol>
+				<h2 style="color:DarkOrange;">
+				The Taj Mahal is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra.
+				</h2>
+				  <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14112506/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg" alt="Corgi Dog">
+				  <a href="https://pragmatic.bg">Pragmatic Homepage</a>
+			</body>
+		</html>
+    
